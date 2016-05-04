@@ -1,3 +1,2 @@
-This is a new file..
-I am making some more changes to this file.
-Adding a third line now.
+diary notes
+1. What is the your name?
